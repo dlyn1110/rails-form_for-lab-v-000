@@ -1,9 +1,9 @@
 class StudentsController < ApplicationController
 
-  def show
+  def new
   end
 
-  def new
+  def create 
   end
   
   def show
@@ -14,4 +14,5 @@ class StudentsController < ApplicationController
 
   def edit
   end
+  
 end
